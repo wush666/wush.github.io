@@ -1,2 +1,0 @@
-# wush.github.io
-blog
